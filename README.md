@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# and .Net Entity Framework**
 
-- 💬 Ask me about **Linux, Meaven, Gradle and Spring Boot**
+- 💬 Ask me about **JavaScript, Linux, Meaven and Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
