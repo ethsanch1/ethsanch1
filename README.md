@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codingfastaf" target="blank"><img src="https://img.shields.io/twitter/follow/codingfastaf?logo=twitter&style=for-the-badge" alt="codingfastaf" /></a> </p>
 
-- 🌱 I’m currently learning **C# and .Net Entity Framework**
-
-- 💬 Ask me about **JavaScript, Linux, Meaven and SpringBoot**
+WELCOME
 #
 <h3 align="left">Connect with me:</h3>
 <p align="left">
