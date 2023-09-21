@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Ethan Sanchez</h1>
-<h3 align="center">A passionate Full Stack Developer from Mexico</h3>
+<h3 align="center">from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethsanch1&label=Profile%20views&color=0e75b6&style=flat" alt="ethsanch1" /> </p>
